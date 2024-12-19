@@ -40,11 +40,29 @@
 }
 .container img{
     height: 300px;
-    width: 1280px;
+    width: 1263px;
    
 }
 .provide h4{
     text-align: center;
     font-size: 80px;
     font-weight: bold;
+    margin-top: 20px;
+    color: orange;
+
+}
+.paragraph {
+    width: 340px;
+    padding: 10px;
+}
+
+.main{
+    display: flex;
+    gap: 70px;
+    margin-top: 60px;
+}
+.main h4{
+    margin-bottom: 20px;
+    font-size: 20px;
+    margin-left: 15px;
 }

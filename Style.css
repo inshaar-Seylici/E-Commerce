@@ -38,4 +38,13 @@
     font-family: 'Times New Roman', ;
 
 }
- 
+.container img{
+    height: 300px;
+    width: 1280px;
+   
+}
+.provide h4{
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+}

@@ -52,8 +52,13 @@
 
 }
 .paragraph {
-    width: 340px;
+    width: 300px;
     padding: 10px;
+    background-color: yellow;
+    border-radius: 12px;
+    margin-left: 20px;
+    padding: 10px;
+
 }
 
 .main{
@@ -64,5 +69,36 @@
 .main h4{
     margin-bottom: 20px;
     font-size: 20px;
-    margin-left: 15px;
+    margin-left: 30px;
+    
 }
+
+.top {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.one{
+    width: 300px;
+    height: 300px;
+    background-color: grey;
+    border-radius: 12px;
+   margin: 70px 30px;
+   margin-bottom: 100px;
+
+}
+
+.one img{
+    width: 320px;
+    height: 300px;
+    
+
+}
+
+.dress{
+    display: flex;
+    margin-left: 90px;
+}
+
+
+ 
